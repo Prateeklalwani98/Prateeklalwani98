@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Prateeklalwani
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on React JS projects
+- 📫 How to reach me on https://www.linkedin.com/in/prateek-lalwani-3808631b4/
